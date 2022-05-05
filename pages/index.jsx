@@ -1,9 +1,13 @@
-import Head from 'next/head';
-
 export default function Home() {
   return (
-    <h1 className="text-3xl font-bold font-mono text-orange-700 underline">
-      hello, world!!
-    </h1>
+    <div className="justify-center pt-28">
+      <h1 className="text-center align-middle text-3xl font-bold font-mono text-gray-500">
+        ONLYSCORING.COM
+      </h1>
+       <p className="text-center align-middle font-mono text-gray-400">
+        SCORE ANYTHING.
+        COMING SOON
+      </p>
+    </div>
   );
 }
