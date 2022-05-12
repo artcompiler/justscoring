@@ -2,7 +2,6 @@
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import { MenuIcon, XIcon, AnnotationIcon, GlobeAltIcon, LightningBoltIcon, ScaleIcon } from '@heroicons/react/outline'
-import { Image } from 'next/image'
 
 const navigation = [
   { name: 'About', href: '#' },
