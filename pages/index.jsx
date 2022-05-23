@@ -147,11 +147,11 @@ export default function Home() {
       <main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
       <div className="text-center">
       <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-      <span className="block xl:inline">Automatic short answers graded</span><br />
+      <span className="block xl:inline">Quizzes graded</span>{' '}
       <span className="block text-indigo-600 xl:inline">so you don&apos;t have to.</span>
       </h1>
-      <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-      Automatically grade quizzes delivered to your students on popular platforms like Google, Learnosity, Moodle, and more.
+      <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-2xl md:max-w-xl">
+      Automatic short answer grading of quizzes delivered to your students with Google Forms.
       </p>
       <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
       <div className="rounded-md shadow">
