@@ -152,6 +152,7 @@ export default function Home() {
   )
 }
 
+
 const features = [
   {
     name: 'Competitive exchange rates',
